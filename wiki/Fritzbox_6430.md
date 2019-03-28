@@ -19,3 +19,7 @@ The Fritz!Box 6430 provides cable internet using the Euro-Docsis standards 1.0, 
 * IPv4 only: full support
 * Dual-Stack: full support
 * DS-Lite: full support
+
+## Weblinks
+
+* [ruKernelTool - Tool to read / flash / update / manage different versions of the Fritz!Box](http://rukerneltool.rainerullrich.de/index_rukt.html)
