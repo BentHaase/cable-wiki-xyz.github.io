@@ -15,17 +15,17 @@ Unitymedia has deployed a Euro-Docsis 3.0 cable network. First field tests with 
 
 ### AFTR Addresses
 
-|IP Address|FQDN|Area|
-|---|---|---|
-|2a02:908::1:4000|7111a-aftr-01.aftr.umkbw.net|???|
-|2a02:908::2:4000|de-krp01a-cr07.aftr.umkbw.net, de-dus01a-cr09.aftr.umkbw.net|Kerpen, Düsseldorf|
-|2a02:908::5:4000|de-cgn01a-cr09.aftr.umkbw.net|Köln|
-|2a02:908::8:4000|de-dtm01a-cr15.aftr.umkbw.net|Dortmund|
-|2a02:908::10:4000|de-aah01a-cr06.aftr.umkbw.net|Aachen|
-|2a02:908::13:4000|de-dus01a-cr12.aftr.umkbw.net|Düsseldorf|
-|2a02:908::33:4000|de-dus23e-rt01.aftr.umkbw.net|Düsseldorf|
-|2a02:8071:2000:310::1|de-mhg01a-cr01.aftr.kabelbw.de|Mönchengladbach|
-|2a02:8071:2000:312::1|de-kae01a-cr01.aftr.kabelbw.de|Karlsruhe|
+| IP Address | FQDN | Area |
+| --- | --- | --- |
+| 2a02:908::1:4000 |7111a-aftr-01.aftr.umkbw.net | ??? |
+| 2a02:908::2:4000 |de-krp01a-cr07.aftr.umkbw.net, de-dus01a-cr09.aftr.umkbw.net | Kerpen, Düsseldorf |
+| 2a02:908::5:4000 |de-cgn01a-cr09.aftr.umkbw.net | Köln|
+| 2a02:908::8:4000 |de-dtm01a-cr15.aftr.umkbw.net | Dortmund|
+| 2a02:908::10:4000 |de-aah01a-cr06.aftr.umkbw.net | Aachen|
+| 2a02:908::13:4000 |de-dus01a-cr12.aftr.umkbw.net | Düsseldorf|
+| 2a02:908::33:4000 |de-dus23e-rt01.aftr.umkbw.net | Düsseldorf|
+| 2a02:8071:2000:310::1 |de-mhg01a-cr01.aftr.kabelbw.de | Mönchengladbach|
+| 2a02:8071:2000:312::1 |de-kae01a-cr01.aftr.kabelbw.de | Karlsruhe|
 
 ## Assigned IPv6 Prefix
 
