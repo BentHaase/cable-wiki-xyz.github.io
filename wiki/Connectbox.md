@@ -1,6 +1,6 @@
 # Connectbox
 
-The Connectbox is a cable modem/router combination based on the [Arris Touchstone TG2492S](TG2492S.md) used by [LibertyGlobal](LibertyGlobal.md) and subsidiaries like [UnityMedia](UnityMedia.md).
+The Connectbox is a cable modem/router combination based on the [Arris Touchstone TG2492S](TG2492S.md) used by [LibertyGlobal](LibertyGlobal.md) and subsidiaries like [Unitymedia](Unitymedia.md).
 
 ## Technical Specifications
 
