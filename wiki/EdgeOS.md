@@ -17,7 +17,9 @@ The following configurations were tested on an Edgerouter X with EdgeOSv1.10.1.
 * Gateway: Provider Fritzbox 6490 in Bridge Mode
 * IPv6 prefix: /56
 
-### EdgeOS can supports IPv6 trough manual configuration via CLI. This examples uses eth0 as WAN, eth1 and eth2 as individual LAN interfaces. ([source](https://gist.github.com/mskutta/b203b73134364a78d2e3))
+### IPv6 Support
+
+EdgeOS can supports IPv6 trough manual configuration via CLI. This examples uses eth0 as WAN, eth1 and eth2 as individual LAN interfaces. ([source](https://gist.github.com/mskutta/b203b73134364a78d2e3))
 
 ```
 # Configure IPv6 Firewall
