@@ -9,7 +9,7 @@
 
 * [Fritzbox 6430](Fritzbox_6430.md)
 * [Fritzbox 6490](Fritzbox_6490.md)
-* [Fritzbix 6590](Fritzbox_6590.md)
+* [Fritzbox 6590](Fritzbox_6590.md)
 
 ## T
 
