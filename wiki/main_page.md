@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-## cable-wiki.xyz - information source for everything regarding cable networks
+## cable-wiki.xyz
 
 cable-wiki.xyz is the place to collect all information about available cable modems, cable routers, cable providers, SIP configuration and more.
 
