@@ -13,6 +13,7 @@ cable-wiki.xyz is the place to collect all information about available cable mod
 **Router and firewall systems are available in two distinct categories depending on their most common setup (some software system offer hardware too though):**
 
 [Hardware](hardware.md)
+
 [Software](softeare.md)
 
 **SIP phones, adapters, soft-phones and other systems are available in category:**
