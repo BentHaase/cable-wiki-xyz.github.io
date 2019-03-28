@@ -8,13 +8,13 @@ cable-wiki.xyz is the place to collect all information about available cable mod
 
 **Cable providers are listed in category:**
 
-[Cable Providers](providers/providers.md)
+[Cable Providers](providers.md)
 
 **Router and firewall systems are available in two distinct categories depending on their most common setup (some software system offer hardware too though):**
 
-[Hardware](hardware/hardware.md)
-[Software](software/softeare.md)
+[Hardware](hardware.md)
+[Software](softeare.md)
 
 **SIP phones, adapters, soft-phones and other systems are available in category:**
 
-[SIP-Endpoints](sip-endpoints/sip-endpoints.md)
+[SIP-Endpoints](sip-endpoints.md)
