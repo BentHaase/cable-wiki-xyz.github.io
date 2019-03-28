@@ -14,6 +14,7 @@ Unitymedia offers different sets of hardware bundled with their contracts:
 Unitymedia has deployed a Euro-Docsis 3.0 cable network. First field tests with Docsis 3.1 are undergoing. The PCP (Port Control Protocol) is not yet supported by the Unitymedia AFTR implementation.
 
 ### AFTR Addresses
+
 |IP Address|FQDN|Area|
 |---|---|---|
 |2a02:908::1:4000|7111a-aftr-01.aftr.umkbw.net|???|
