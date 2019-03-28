@@ -4,6 +4,6 @@ LibertyGlobal is an American international telecommunications and television gro
 
 ## Europe
 
-* [UnityMedia (Germany)](UnityMedia.md)
+* [Unitymedia (Germany)](Unitymedia.md)
 * [UPC Switzerland](UPC_Switzerland.md)
 * [UPC Austria](UPC_Austria.md)
