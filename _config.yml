@@ -53,12 +53,16 @@ google_cse_token:
 # git-wiki includes some internal themes that you can choose
 # check _layouts folder
 #
-markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
+  
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  
 defaults:
  - 
     scope:
