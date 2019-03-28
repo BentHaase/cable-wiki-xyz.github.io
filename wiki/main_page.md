@@ -14,7 +14,7 @@ cable-wiki.xyz is the place to collect all information about available cable mod
 
 [Hardware](hardware.md)
 
-[Software](softeare.md)
+[Software](software.md)
 
 **SIP phones, adapters, soft-phones and other systems are available in category:**
 
