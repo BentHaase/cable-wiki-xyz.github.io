@@ -55,10 +55,10 @@ google_cse_token:
 #
 markdown: Kramdown
 highlighter: rouge
-  
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
   
 defaults:
  - 
