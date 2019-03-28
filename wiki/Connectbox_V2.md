@@ -1,6 +1,6 @@
 # Connectbox V2
 
-The Connectbox v2 is a cable modem/router combination based on the [Arris Touchstone TG3492](TG3492.md) used by [LibertyGlobal](LibertyGlobal.md) and subsidiaries like [UnityMedia](UnityMedia.md).
+The Connectbox v2 is a cable modem/router combination based on the [Arris Touchstone TG3492](TG3492.md) used by [LibertyGlobal](LibertyGlobal.md) and subsidiaries like [Unitymedia](Unitymedia.md).
 
 ## Technical Specifications
 
