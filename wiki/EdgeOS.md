@@ -11,11 +11,18 @@ EdgeOS is a Network Operating System developed by Ubiquiti Networks. It is based
 
 ## Configuration examples
 
-The following configurations were tested on an Edgerouter X with EdgeOSv1.10.1.
-
+#### Business contract
 * Provider: Unitymedia Business
 * Gateway: Provider Fritzbox 6490 in Bridge Mode
 * IPv6 prefix: /56
+
+#### Private DualStack contract (not DS-Lite)
+* Provider: Unitymedia private contract with DualStack (not DS-Lite)
+* Gateway: Provider ConnectBox in Bridge Mode
+* IPv6 prefix: /56 (Baden-Württemberg)
+* IPv6 prefix: /59 (NRW/Hessen)
+
+The following configuration were tested on an Edgerouter X with EdgeOSv1.10.1 and on an EdgeRouter Lite with EdgeOSv2.0.6.
 
 ### IPv6 Support
 
