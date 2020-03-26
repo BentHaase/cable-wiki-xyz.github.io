@@ -1,17 +1,26 @@
-# Unitymedia
+# Unitymedia (now Vodafone)
 
-Unitymedia is a cable provider available in Germany. Unitymedia is part of the bigger Liberty Global group.
+Unitymedia was a cable provider available in Germany. Unitymedia was part of the bigger Liberty Global group.
+It has been acquired by Vodafone in 2019.
+Since the technical integration of the networks as well as websites is still ongoing, this page should stay for now.
 
 ## Available Hardware
 
 Unitymedia offers different sets of hardware bundled with their contracts:
 
 * [Connectbox](Connectbox.md)
-* [Fritzbox 6490](Fritzbox_6490.md)
+* [Fritzbox 6430 Cable](Fritzbox_6430.md)
+* [Fritzbox 6490 Cable](Fritzbox_6490.md)
+* [Fritzbox 6590 Cable](Fritzbox_6590.md)
+* [Fritzbox 6591 Cable](Fritzbox_6591_Cable.md)
+* [Horizon receiver](Horizon_receiver.md)
+
 
 ## Cable Specs
 
-Unitymedia has deployed a Euro-Docsis 3.0 cable network. First field tests with Docsis 3.1 are undergoing. The PCP (Port Control Protocol) is not yet supported by the Unitymedia AFTR implementation.
+Unitymedia has deployed a Euro-Docsis 3.0 cable network. 
+The rollout of Docsis 3.1 is ongoing. 
+The PCP (Port Control Protocol) is not yet supported by the Unitymedia AFTR implementation.
 
 ### AFTR Addresses
 
@@ -37,14 +46,30 @@ Unitymedia assigns the following prefixes for Dual-Stack and DS-Lite accounts. I
 
 ## DOCSIS 3.1 Rollout
 
-Unitymedia started testing DOCSIS 3.1 in Bochum in May 2017. The [FritzBox 6591](Fritzbox_6591.md) is initially used. The [Connectbox v2](Connectbox_V2.md) should become available later.
+Unitymedia first started testing DOCSIS 3.1 in Bochum in May 2017. The [FritzBox 6591 Cable](Fritzbox_6591_Cable.md) is initially used. The [Connectbox v2](Connectbox_V2.md) should become available later.
+The rollout is ongoing.
+Currently, DOCSIS 3.1 with a data rate of up to 1Gbps is available in:
+* Bochum
+* Cologne 
+* Düsseldorf 
+* Frankfurt
+* Heilbronn
+* Mannheim
+* Hagen
+* Ennepetal
+* Gevelsberg
+* Herdecke
+* Wetter (Ruhr)
+Availability Check can be found [here](https://www.unitymedia.de/privatkunden/internet/internet-optionen/verfuegbarkeitscheck/)
 
 ## Contact Information
 
 Telephone:
 
-* NRW / Hessen: 0221 / 466 191 00
-* BW: 0711 / 54 888 150
+Germany-wide hotlines by category since Vodafone takover
+* Contracts: 0221/4661 91 00 or 0800/70 011 77 or 0176/8886 63 10
+* Product information and orders:  0221/4661 90 98
+* Technical questions and incidents (24/7): 0221/4661 91 00 or 0800/700 11 77 or 0176/888 663 10
 
 ## Custom Hardware
 
