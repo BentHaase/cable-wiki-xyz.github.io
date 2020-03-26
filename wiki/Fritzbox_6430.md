@@ -1,8 +1,8 @@
-# Fritzbox 6430
+# Fritzbox 6430 Cable
 
 The Fritz!Box (stylized as FRITZ!Box) is a router hardware product line by the German company AVM GmbH. The Fritzbox is available for many different types of internet connections, such as cable internet, (V/A)DSL, LTE and others.
 
-The Fritz!Box 6430 provides cable internet using the Euro-Docsis standards 1.0, 1.1, 2.0 and 3.0.
+The Fritz!Box 6430 Cable provides cable internet using the Euro-Docsis standards 1.0, 1.1, 2.0 and 3.0.
 
 ## Specs
 
@@ -22,4 +22,7 @@ The Fritz!Box 6430 provides cable internet using the Euro-Docsis standards 1.0, 
 
 ## Weblinks
 
-* [ruKernelTool - Tool to read / flash / update / manage different versions of the Fritz!Box](http://rukerneltool.rainerullrich.de/index_rukt.html)
+* [Manufacturer product quick guide (english)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6430/fritzbox-6430_qig_en_GB.pdf)
+* [Manufacturer product manual (deutsch)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6430/fritzbox-6430_man_de_DE.pdf)
+* [Manufacturer product website (english)](https://en.avm.de/products/fritzbox/fritzbox-6430-cable/)
+* [Manufacturer product website (deutsch)](https://avm.de/produkte/fritzbox/fritzbox-6430-cable/)
