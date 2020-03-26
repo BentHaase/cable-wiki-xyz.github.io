@@ -26,5 +26,5 @@ The Fritz!Box 6490 Cable provides cable internet using the Euro-Docsis standards
 
 * [Manufacturer product manual (english)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6490-cable/fritzbox-6490-cable_man_en_GB.pdf)
 * [Manufacturer product manual (deutsch)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6490-cable/fritzbox-6490-cable_man_de_DE.pdf)
-* [Manufacturer product website (english)] (https://en.avm.de/products/fritzbox/fritzbox-6490-cable/)
+* [Manufacturer product website (english)](https://en.avm.de/products/fritzbox/fritzbox-6490-cable/)
 * [Manufacturer product website (deutsch)](https://avm.de/produkte/fritzbox/fritzbox-6490-cable/)
