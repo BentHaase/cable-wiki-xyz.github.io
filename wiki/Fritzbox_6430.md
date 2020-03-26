@@ -24,5 +24,4 @@ The Fritz!Box 6430 Cable provides cable internet using the Euro-Docsis standards
 
 * [Manufacturer product quick guide (english)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6430/fritzbox-6430_qig_en_GB.pdf)
 * [Manufacturer product manual (deutsch)](https://assets.avm.de/files/docs/fritzbox/fritzbox-6430/fritzbox-6430_man_de_DE.pdf)
-* [Manufacturer product website (english)](https://en.avm.de/products/fritzbox/fritzbox-6430-cable/)
 * [Manufacturer product website (deutsch)](https://avm.de/produkte/fritzbox/fritzbox-6430-cable/)
